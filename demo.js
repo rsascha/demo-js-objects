@@ -3,6 +3,8 @@
 // const person = {};
 // console.log(typeof person);
 
+// NEW
+
 // Access Property Values
 // Change Property Values
 
